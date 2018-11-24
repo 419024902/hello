@@ -1,7 +1,11 @@
 321321
 
+qwqeqeqweqwe
+
+
 wqeqweqeqweqwe
 
+<<<<<<< HEAD
 
 asda
 sas
@@ -27,3 +31,20 @@ q1111111111111111111111111111111111
 1
 1
 
+=======
+asd
+asd
+asd
+asd
+asd
+asda
+sdas
+das
+das
+dasd
+asd
+asd
+asd
+asd
+sa
+>>>>>>> 5195bd530241f6fbe629ff56fada11d2963dd823
